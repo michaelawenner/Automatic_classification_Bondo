@@ -1,1 +1,6 @@
-Contains jupyter notebook and feature files to reproduce figures and outcomes of Wenner et al., 2020 (submitted)
+# Near Real-Time Automated Classification of Seismic Signals of Slope Failures with Continuous Random Forests
+
+**Jupyter notebook containing training of classifier and visulalisation used in Wenner et al., submitted to JGR: Earth surface**
+
+*Feautre files not uploaded yet do to connection problems, will be updated by February 23.*
+
